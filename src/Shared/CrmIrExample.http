@@ -1,0 +1,6 @@
+@CollabIntegrationExample.WebApp_HostAddress = http://localhost:5123
+
+GET {{CollabIntegrationExample.WebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
